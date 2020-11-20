@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chat on Discord](https://img.shields.io/discord/700803887132704931?Label=Discord)](https://discord.gg/GhREy5v)
 [![Created by The Frontside](https://img.shields.io/badge/created%20by-frontside-26abe8.svg)](https://frontside.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthefrontside%2Fmicrostates.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthefrontside%2Fmicrostates?ref=badge_shield)
 
 <h1>
   <img src="./packages/microstates/README/microstates-logo.svg" alt="Microstates Logo" width="200" /><br>Microstates
@@ -1009,3 +1010,7 @@ class Employee extends Person {
 $ npm install
 $ npm test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthefrontside%2Fmicrostates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthefrontside%2Fmicrostates?ref=badge_large)
